@@ -1,0 +1,19 @@
+/*   flex-direction
+     align-items
+     display-flex
+     order
+     align-content
+     align-self
+     flex-flow
+     flex-wrap
+      */
+
+      header div nav a{
+        text-decoration: none;
+        color: black;
+        font-size: 30px;
+    }
+
+    header{
+      display: flex;
+    }
